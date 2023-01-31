@@ -1,0 +1,22 @@
+- title: Getting Started
+  docs:
+  - home
+  - equipment-specs
+  - personnel-support
+
+- title: Processes
+  docs:
+  - shape-capture
+  - shape-capture-small
+  - appearance-capture
+  - agisoft-metashape
+
+- title: Software
+  docs:
+  - capture-server
+  - capture-client
+
+- title: Data and Results
+  docs:
+  - capture-results
+  - raw-data
