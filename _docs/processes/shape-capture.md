@@ -41,7 +41,7 @@ The main workstation computer runs the Canon Control Client software that commun
 
 ### Accept the Self-Signed Certificates
 The servers use a self-signed certificate for secure communication which must be provisionally accepted about once a day.
-1. In the same web browser, open a new tab and navigate to `https://10.0.1.101:42424/camera`
+1. In the same web browser, open a new tab and navigate to `https://10.1.1.101:42424/camera`
 2. When warned about the certificate, click 'Advanced' and then 'Proceed to this website (unsafe)'.
 3. Repeat steps 1-2 for each IP addresses ending in 102, 103, and 104.
 
